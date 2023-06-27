@@ -83,3 +83,47 @@ export const userColumns = [
       width: 100,
     },
   ];
+  export const userRows = [
+    {
+      id: 1,
+      username: "Nikolica",
+      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      status: "active",
+      email: "nikolica@gmail.com",
+      age: 35,
+    },
+    {
+      id: 2,
+      username: "Marko",
+      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "marko@gmail.com",
+      status: "passive",
+      age: 42,
+    },
+    {
+      id: 3,
+      username: "Ivana",
+      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "ivana@gmail.com",
+      status: "pending",
+      age: 45,
+    },
+    {
+      id: 4,
+      username: "Sofija",
+      img: "https://images.pexels.com/photos/1820770/pexels-photo-1820770.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+      email: "sofija@gmail.com",
+      status: "active",
+      age: 16,
+    },]
+    export const hotelRows = [
+      {
+        _id: 1,
+        name: "Snow",
+        type:"hotel",
+       title: "h/photos/1820770/pexe",
+        city: "1snow@gmail.com",
+        
+      },
+      
+  ];
